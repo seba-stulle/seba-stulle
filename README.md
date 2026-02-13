@@ -1,16 +1,18 @@
-## Hi there 👋
+# Sebastián (Seba) — Junior NOC / Monitoring (Linux)
 
-<!--
-**seba-stulle/seba-stulle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m building a small Home NOC Lab on Debian and documenting incident response (runbooks + tickets).
 
-Here are some ideas to get you started:
+## Target roles
+- NOC Junior / Monitoring Operator
+- Infra Support N1 (Linux)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## What I practice
+- Linux triage: systemd, logs (journalctl), disk/CPU/memory
+- Network checks: DNS vs connectivity vs ports
+- Documentation: runbooks + ticket-style notes
+
+## Projects
+- Home NOC Lab: https://github.com/seba-stulle/home-noc-lab
+- Runbooks: https://github.com/seba-stulle/noc-runbooks
+
 -->
