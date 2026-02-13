@@ -1,4 +1,4 @@
-# Sebastián (Seba) — Junior NOC / Monitoring (Linux)
+# Sebastián — Junior NOC / Monitoring (Linux)
 
 I’m building a small Home NOC Lab on Debian and documenting incident response (runbooks + tickets).
 
